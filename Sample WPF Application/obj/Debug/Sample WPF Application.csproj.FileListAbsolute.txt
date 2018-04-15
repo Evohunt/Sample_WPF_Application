@@ -1,0 +1,14 @@
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\bin\Debug\Sample WPF Application.exe.config
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\bin\Debug\Sample WPF Application.exe
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\bin\Debug\Sample WPF Application.pdb
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application.csprojResolveAssemblyReference.cache
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\MainWindow.g.cs
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\App.g.cs
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application_MarkupCompile.cache
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application_MarkupCompile.lref
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\MainWindow.baml
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application.g.resources
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample_WPF_Application.Properties.Resources.resources
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application.csproj.GenerateResource.Cache
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application.exe
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\Sample WPF Application\Sample WPF Application\obj\Debug\Sample WPF Application.pdb
